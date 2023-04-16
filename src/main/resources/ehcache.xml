@@ -1,0 +1,9 @@
+<config
+        xmlns='http://www.ehcache.org/v3'
+>
+    <cache alias="type">
+        <key-type>java.lang.Integer</key-type>
+        <value-type>org.hibernate.entities.Type</value-type>
+        <heap unit="entries">10000</heap>
+    </cache>
+</config>

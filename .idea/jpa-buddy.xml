@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="mssql">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="reverseEngineeringLastDbConnectionId" value="7c50a9d8-11f7-443f-9278-e32cd0a227f2" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/org/hibernate/entities" />
+  </component>
+</project>
